@@ -12,8 +12,8 @@
     <artifactId>nacos_spring</artifactId>
     <packaging>pom</packaging>
     <modules>
-        <module>nacos_spring_consumer</module>
-        <module>nacos_spring_producer</module>
+        <module>nacos_spring_consumer_order</module>
+        <module>nacos_spring_producer_user</module>
     </modules>
 
     <dependencyManagement>
@@ -21,7 +21,7 @@
             <dependency>
                 <groupId>javax.servlet</groupId>
                 <artifactId>javax.servlet-api</artifactId>
-                <version>3.1.0</version>
+                <version>3.0.1</version>
             </dependency>
 
             <dependency>
@@ -33,7 +33,7 @@
             <dependency>
                 <groupId>com.alibaba.nacos</groupId>
                 <artifactId>nacos-spring-context</artifactId>
-                <version>0.2.2-RC1</version>
+                <version>RELEASE</version>
             </dependency>
         </dependencies>
     </dependencyManagement>
