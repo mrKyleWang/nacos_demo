@@ -17,11 +17,6 @@
             <groupId>org.springframework.boot</groupId>
             <artifactId>spring-boot-starter-web</artifactId>
         </dependency>
-        <!--nacos-config-->
-        <dependency>
-            <groupId>com.alibaba.boot</groupId>
-            <artifactId>nacos-config-spring-boot-starter</artifactId>
-        </dependency>
         <!--nacos-discovery-->
         <dependency>
             <groupId>com.alibaba.boot</groupId>
