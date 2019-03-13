@@ -20,7 +20,7 @@
         <dependency>
             <groupId>org.springframework.cloud</groupId>
             <artifactId>spring-cloud-starter-alibaba-nacos-discovery</artifactId>
-            <version>RELEASE</version>
+            <version>0.2.1.RELEASE</version>
         </dependency>
     </dependencies>
 
