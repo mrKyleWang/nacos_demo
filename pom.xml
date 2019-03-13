@@ -11,6 +11,7 @@
     <modules>
         <module>nacos_spring</module>
         <module>nacos_springboot</module>
+        <module>nacos_springcloud</module>
     </modules>
 
     <repositories>
